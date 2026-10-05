@@ -11,8 +11,6 @@ Soy un desarrollador de software de España, apasionado por construir aplicacion
 
 ### 🛠️ Stack Tecnológico
 
-*Adapta esta lista a los lenguajes que dominas:*
-
 - **Frontend:** HTML5, CSS3, JavaScript, Vue
 - **Backend:** Java, PHP, Node.js, Spring Boot, Laravel
 - **Bases de Datos:** MySQL, PostgreSQL, Firebase
