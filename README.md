@@ -21,5 +21,5 @@ Soy un desarrollador de software de España, apasionado por construir aplicacion
 
 ### 📫 Conecta conmigo
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/miguel-angel-villaespesa-ybarra-362489369)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/miguel-angel-villaespesa-ybarra-362489369](https://www.linkedin.com/in/miguel-angel-villaespesa-ybarra-362489369/?isSelfProfile=true))
 - ✉️ **[miguelangelvillaespesa@gmail.com](mailto:miguelangelvillaespesa@gmail.com)**
